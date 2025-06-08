@@ -1,0 +1,11 @@
+# Ignore Batch and PowerShell script files
+*.bat
+*.ps1
+
+# Ignore common Windows temporary files
+Thumbs.db
+Desktop.ini
+
+# Ignore backup and log files
+*.bak
+*.log
