@@ -1,0 +1,17 @@
+Olá, deve estar se perguntando se eu sou um Hacker, pois eu criei tudo isso. Bem vamos dizer que eu sou, so não sou um dos melhores.
+
+Irei falar o que você deve fazer para conseguir a senha do app do gmail para usar esses Scripts:
+
+1 - Entre em "https://myaccount.google.com/u/1/apppasswords?continue=https://myaccount.google.com/";
+
+2 - Coloque qualquer Nome em "App Name";
+
+3 - Clique em "Create";
+
+4 - Salve a senha que está aparecendo na aba que abriu (Pois você não consegue denovo, sem criar outro!) , salve BEM também, Pois essa senha deixa qualquer pessoa que tenha essa senha fazer o que quiser com a sua conta!;
+
+5 - Clique em "Done".
+
+Em seguida, coloque nos Scripts que for usar o gmail em "Coloque_seu_gmail@gmail.com" e a senha do app do gmail em "Coloque_sua_senha_do_app_do_gmail", lembre-se tem as coisas que estão falando para colocar e ai que coloca somente! E depois que colocar tudo certinho, execute o arquivo com dois cliques e irá mandar, olhe sua caixa de entrada no gmail quando tiver executado! Lembre-se também, isso é seguro e ilegal, so cuidado com isso!
+
+Lembre-se pode ter alguns sem funcionar, so isso talvez não aconteça se você não mecher no que não foi pedido ou é erro meu ou é por causa que não é pc Windows atualizado. (Testado em Windows 11 Atualizado)
